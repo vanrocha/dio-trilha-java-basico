@@ -1,3 +1,4 @@
+package Operadores;
 public class OperadoresRelacionais {
     public static void main(String[] args) {
         String nomeUm = "Rafael";
