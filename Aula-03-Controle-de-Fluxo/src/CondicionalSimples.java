@@ -1,9 +1,9 @@
 
     // CaixaEletronico.java
-public class EstruturasCondicionais {
+public class CondicionalSimples {
     public static void main(String[] args) {
 
-       double saldo = 25.0;
+       double saldo = 26.0;
        double valorSolicitado = 17.0;
 
        if(valorSolicitado < saldo)
